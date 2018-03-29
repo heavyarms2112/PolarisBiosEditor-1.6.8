@@ -1,4 +1,4 @@
-# PolarisBiosEditor v1.6.7
+# PolarisBiosEditor v1.6.8
 
 ### Important: You need to disable SecureBoot / Activate CSM in your
 ### Motherboard UEFI because the modification will make
@@ -6,9 +6,9 @@
 
 If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
 
-For donations or other requests please contact me by email: jk@jascha-knack.de
+For donations or other requests please contact me by email: shomi199870@gmail.com
 
-VirusTotal Report: https://www.virustotal.com/de/file/da96cd604093c686e8b1488726ae10a43a550aea5aaba0c0f308183b86f340f3/analysis/1505395469/
+
 
 0/58. If your AV warns you about a virus/trojan, consider it as false positive.
 
@@ -19,6 +19,10 @@ works on linux with mono, executable is build against .net 3.5
 one click timing feature should be used with care, it maybe not stable for you
 
 please build the executable yourself or decompile the existing one if you don't trust
+
+### v1.6.8
+- Fixed Samsung Uber-Mix strap
+- support for HYNIX 3 H5GC8H24MJ
 
 ### v1.6.7
 - created solution and project files for ide
