@@ -22,8 +22,16 @@ please build the executable yourself or decompile the existing one if you don't 
 
 ### v1.6.8
 - Fixed Samsung Uber-Mix strap
-- support for HYNIX 3 H5GC8H24MJ
-
+- support for ("MT51J256M3", "MICRON");
+              ("EDW4032BAB", "ELPIDA");
+              ("H5GC4H24AJ", "HYNIX_1");
+              ("H5GQ4H24AJ", "HYNIX_2");
+              ("H5GQ8H24MJ", "HYNIX_2");
+              ("H5GC8H24MJ", "HYNIX_3");
+              ("K4G80325FB", "SAMSUNG");
+              ("K4G41325FE", "SAMSUNG");
+              ("K4G41325FC", "SAMSUNG");
+              ("K4G41325FS", "SAMSUNG");
 ### v1.6.7
 - created solution and project files for ide
 - support for device id 0x67ef
